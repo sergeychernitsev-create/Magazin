@@ -1,0 +1,137 @@
+[
+  {
+    "id": 1,
+    "name": "Иванов Алексей Петрович",
+    "email": "ivanov.alex@mail.ru",
+    "phone": "+79161234567",
+    "address": "г. Москва, ул. Ленина, д. 15, кв. 42",
+    "registration_date": "2023-01-15",
+    "discount_rate": 0.1
+  },
+  {
+    "id": 2,
+    "name": "Петрова Мария Сергеевна",
+    "email": "petrova.maria@gmail.com",
+    "phone": "+79266543210",
+    "address": "г. Санкт-Петербург, Невский пр., д. 28, кв. 17",
+    "registration_date": "2023-02-20",
+    "discount_rate": 0.0
+  },
+  {
+    "id": 3,
+    "name": "Сидоров Дмитрий Иванович",
+    "email": "sidorov.dmitry@yandex.ru",
+    "phone": "+79035557788",
+    "address": "г. Новосибирск, ул. Кирова, д. 7, кв. 9",
+    "registration_date": "2023-03-10",
+    "discount_rate": 0.1
+  },
+  {
+    "id": 4,
+    "name": "Козлова Екатерина Викторовна",
+    "email": "kozlova.ekaterina@mail.ru",
+    "phone": "+79189990011",
+    "address": "г. Екатеринбург, пр. Космонавтов, д. 33, кв. 24",
+    "registration_date": "2023-04-05",
+    "discount_rate": 0.0
+  },
+  {
+    "id": 5,
+    "name": "Николаев Андрей Олегович",
+    "email": "nikolaev.andrey@gmail.com",
+    "phone": "+79224446688",
+    "address": "г. Казань, ул. Баумана, д. 12, кв. 5",
+    "registration_date": "2023-05-12",
+    "discount_rate": 0.1
+  },
+  {
+    "id": 6,
+    "name": "Федорова Ольга Александровна",
+    "email": "fedorova.olga@yandex.ru",
+    "phone": "+79018889900",
+    "address": "г. Нижний Новгород, ул. Большая Покровская, д. 19, кв. 13",
+    "registration_date": "2023-06-18",
+    "discount_rate": 0.0
+  },
+  {
+    "id": 7,
+    "name": "Волков Сергей Михайлович",
+    "email": "volkov.sergey@mail.ru",
+    "phone": "+79167778899",
+    "address": "г. Ростов-на-Дону, ул. Садовая, д. 45, кв. 8",
+    "registration_date": "2023-07-22",
+    "discount_rate": 0.1
+  },
+  {
+    "id": 8,
+    "name": "Смирнова Анна Дмитриевна",
+    "email": "smirnova.anna@gmail.com",
+    "phone": "+79203334455",
+    "address": "г. Краснодар, ул. Красная, д. 67, кв. 31",
+    "registration_date": "2023-08-30",
+    "discount_rate": 0.0
+  },
+  {
+    "id": 9,
+    "name": "Попов Игорь Васильевич",
+    "email": "popov.igor@yandex.ru",
+    "phone": "+79046667788",
+    "address": "г. Воронеж, пр. Революции, д. 23, кв. 16",
+    "registration_date": "2023-09-14",
+    "discount_rate": 0.1
+  },
+  {
+    "id": 10,
+    "name": "Лебедева Татьяна Николаевна",
+    "email": "lebedeva.tatyana@mail.ru",
+    "phone": "+79151112233",
+    "address": "г. Самара, ул. Куйбышева, д. 89, кв. 7",
+    "registration_date": "2023-10-25",
+    "discount_rate": 0.0
+  },
+  {
+    "id": 11,
+    "name": "Орлов Максим Викторович",
+    "email": "orlov.maxim@gmail.com",
+    "phone": "+79257778899",
+    "address": "г. Уфа, ул. Октябрьской революции, д. 14, кв. 22",
+    "registration_date": "2023-11-05",
+    "discount_rate": 0.1
+  },
+  {
+    "id": 12,
+    "name": "Зайцева Елена Игоревна",
+    "email": "zaitseva.elena@yandex.ru",
+    "phone": "+79031234567",
+    "address": "г. Пермь, ул. Сибирская, д. 38, кв. 11",
+    "registration_date": "2023-12-12",
+    "discount_rate": 0.0
+  },
+  {
+    "id": 13,
+    "name": "Соколов Артем Александрович",
+    "email": "sokolov.artem@mail.ru",
+    "phone": "+79168889900",
+    "address": "г. Волгоград, пр. Ленина, д. 52, кв. 19",
+    "registration_date": "2024-01-08",
+    "discount_rate": 0.1
+  },
+  {
+    "id": 14,
+    "name": "Воробьева Ксения Сергеевна",
+    "email": "vorobieva.ksenia@gmail.com",
+    "phone": "+79219990011",
+    "address": "г. Красноярск, ул. Мира, д. 27, кв. 6",
+    "registration_date": "2024-02-14",
+    "discount_rate": 0.0
+  },
+  {
+    "id": 15,
+    "name": "Морозов Павел Дмитриевич",
+    "email": "morozov.pavel@yandex.ru",
+    "phone": "+79045556677",
+    "address": "г. Тюмень, ул. Республики, д. 63, кв. 28",
+    "registration_date": "2024-03-20",
+    "discount_rate": 0.1
+  }
+]

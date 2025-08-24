@@ -1,0 +1,142 @@
+[
+  {
+    "id": 1,
+    "name": "Ноутбук ASUS VivoBook 15",
+    "price": 45990.0,
+    "category": "Электроника",
+    "stock": 12
+  },
+  {
+    "id": 2,
+    "name": "Смартфон Samsung Galaxy A54",
+    "price": 28990.0,
+    "category": "Электроника",
+    "stock": 25
+  },
+  {
+    "id": 3,
+    "name": "Наушники Sony WH-1000XM4",
+    "price": 24990.0,
+    "category": "Электроника",
+    "stock": 18
+  },
+  {
+    "id": 4,
+    "name": "Кофемашина DeLonghi Magnifica",
+    "price": 37990.0,
+    "category": "Бытовая техника",
+    "stock": 8
+  },
+  {
+    "id": 5,
+    "name": "Холодильник Bosch Serie 4",
+    "price": 65990.0,
+    "category": "Бытовая техника",
+    "stock": 5
+  },
+  {
+    "id": 6,
+    "name": "Футболка мужская хлопковая",
+    "price": 1490.0,
+    "category": "Одежда",
+    "stock": 45
+  },
+  {
+    "id": 7,
+    "name": "Джинсы женские slim fit",
+    "price": 3490.0,
+    "category": "Одежда",
+    "stock": 32
+  },
+  {
+    "id": 8,
+    "name": "Кроссовки Nike Air Max",
+    "price": 8990.0,
+    "category": "Обувь",
+    "stock": 20
+  },
+  {
+    "id": 9,
+    "name": "Рюкзак городской Deuter",
+    "price": 4590.0,
+    "category": "Аксессуары",
+    "stock": 15
+  },
+  {
+    "id": 10,
+    "name": "Книга 'Мастер и Маргарита'",
+    "price": 590.0,
+    "category": "Книги",
+    "stock": 38
+  },
+  {
+    "id": 11,
+    "name": "Настольная игра 'Монополия'",
+    "price": 2490.0,
+    "category": "Игры",
+    "stock": 22
+  },
+  {
+    "id": 12,
+    "name": "Велосипед горный Stels",
+    "price": 18990.0,
+    "category": "Спорт",
+    "stock": 6
+  },
+  {
+    "id": 13,
+    "name": "Гантели наборные 20 кг",
+    "price": 3490.0,
+    "category": "Спорт",
+    "stock": 14
+  },
+  {
+    "id": 14,
+    "name": "Кофе в зернах Lavazza",
+    "price": 890.0,
+    "category": "Продукты",
+    "stock": 50
+  },
+  {
+    "id": 15,
+    "name": "Чай зеленый Ahmad",
+    "price": 450.0,
+    "category": "Продукты",
+    "stock": 42
+  },
+  {
+    "id": 16,
+    "name": "Мыло жидкое Nivea",
+    "price": 290.0,
+    "category": "Косметика",
+    "stock": 60
+  },
+  {
+    "id": 17,
+    "name": "Шампунь Head & Shoulders",
+    "price": 390.0,
+    "category": "Косметика",
+    "stock": 48
+  },
+  {
+    "id": 18,
+    "name": "Набор посуды Tefal",
+    "price": 12990.0,
+    "category": "Дом",
+    "stock": 9
+  },
+  {
+    "id": 19,
+    "name": "Постельное белье 1.5 спальное",
+    "price": 2490.0,
+    "category": "Дом",
+    "stock": 17
+  },
+  {
+    "id": 20,
+    "name": "Стул офисный кожаный",
+    "price": 8990.0,
+    "category": "Мебель",
+    "stock": 7
+  }
+]
